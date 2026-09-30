@@ -1,0 +1,5 @@
+myvenv/
+.env
+.scrapy/
+__pycache__/
+
